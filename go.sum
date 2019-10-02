@@ -1,6 +1,8 @@
-github.com/hyangah/testmod1 v0.0.1 h1:DMtWvu0mpeNk8W3YnXXJi7tUsSGmIp/flhvsfglfSdM=
-github.com/hyangah/testmod1 v0.0.1/go.mod h1:ZQGZMAFKl2W3w0EAPGOTxRSa/cIiTQTl55JupoqfuSw=
-github.com/jba/testmod1 v0.0.2 h1:ogWQiJJRB3+uyjeIUpHvSgL+ikiZfCQsEK0ztTAOEM8=
-github.com/jba/testmod1 v0.0.2/go.mod h1:jn8RtSl+HbHsG8yO8MKn74GKeka9To7AsUqS0rtLgco=
-github.com/jba/testmod1 v0.0.3 h1:ZL+BAEb/hCj4+n6KIUM/bMUCD/GrSguaIerInAoa4/s=
-github.com/jba/testmod1 v0.0.3/go.mod h1:jn8RtSl+HbHsG8yO8MKn74GKeka9To7AsUqS0rtLgco=
+github.com/jba/testmod1 v0.0.4 h1:1ye/NQMbhZiP4ua1hUFLNVSu9LfA+0sJl4AC0GqX4yE=
+github.com/jba/testmod1 v0.0.4/go.mod h1:jn8RtSl+HbHsG8yO8MKn74GKeka9To7AsUqS0rtLgco=
+github.com/jba/testmod1 v0.0.5 h1:9fJMGBNF543yv/kADs7i2R7AepAJnhbNT8clIT3zfM4=
+github.com/jba/testmod1 v0.0.5/go.mod h1:jn8RtSl+HbHsG8yO8MKn74GKeka9To7AsUqS0rtLgco=
+github.com/jba/testmod1/purple v0.0.1 h1:yCSm1Fv1CMSmFqFusAuL6OD31ec+k5chjgdzZ1zJcmU=
+github.com/jba/testmod1/purple v0.0.1/go.mod h1:HWpS85I5pZJXcsBvIBJvyHSA/Y0vMWGU1VxBYSPrnNA=
+github.com/jba/testmod1/red v0.0.1 h1:pYFk39Wupz6qoaxXgh0U8m7vEjmR2giiyKHCiCjRJtc=
+github.com/jba/testmod1/red v0.0.1/go.mod h1:wqFH3tV//wP4JgsdhzHsAvcREHv1AjGtxnZT0vWvoWA=
